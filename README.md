@@ -43,8 +43,8 @@ The application does some operation like to create, update, list and delete the 
 - ``POST Method: Creating a register``
 - ![POST](https://user-images.githubusercontent.com/83853014/195958148-1edb95af-5090-4e16-a9b5-5b85ef88328f.PNG)
 
- - ``PUT Method: Updating a register``
- ![PUT](https://user-images.githubusercontent.com/83853014/195958163-7723dd6e-d661-4cbe-82f5-7578434805b3.PNG)
+- ``PUT Method: Updating a register``
+![PUT](https://user-images.githubusercontent.com/83853014/195958163-7723dd6e-d661-4cbe-82f5-7578434805b3.PNG)
 
 - ``DELETE Method: Deleting a register``
 - ![delete](https://user-images.githubusercontent.com/83853014/195958190-0af415d6-43eb-4dc6-b37c-4738ca2f411c.PNG)
