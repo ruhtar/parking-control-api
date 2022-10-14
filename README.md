@@ -5,6 +5,7 @@ The application does some operation like to create, update, list and delete the 
 
 ## 🔨 Project's funcionalities
 
+ - [x] Creation of parking spot register
  - [x] Listing of parking spot registers
  - [x] Detailing of one parking spot register 
  - [x] Updating the register of a parking spot
