@@ -37,7 +37,17 @@ The application does some operation like to create, update, list and delete the 
 - ``GET Method: Listing all registers``
 ![GETALL](https://user-images.githubusercontent.com/83853014/195958085-f46ff4e0-eff2-4280-9847-c527e9b62de6.PNG)
 
+- ``GET Method: Listing ONE register``
+- ![getOne](https://user-images.githubusercontent.com/83853014/195958126-ad7f089a-1a9c-422a-8e6d-39fee9024639.PNG)
 
+- ``POST Method: Creating a register``
+- ![POST](https://user-images.githubusercontent.com/83853014/195958148-1edb95af-5090-4e16-a9b5-5b85ef88328f.PNG)
+
+ - ``PUT Method: Updating a register``
+ ![PUT](https://user-images.githubusercontent.com/83853014/195958163-7723dd6e-d661-4cbe-82f5-7578434805b3.PNG)
+
+- ``DELETE Method: Deleting a register``
+- ![delete](https://user-images.githubusercontent.com/83853014/195958190-0af415d6-43eb-4dc6-b37c-4738ca2f411c.PNG)
 
  
  ## 🙋 Author Info
