@@ -33,6 +33,11 @@ The application does some operation like to create, update, list and delete the 
  /parking-spot/id_produto         | PUT    | Updates the register of a parking spot
  /parking-spot/id_produto        | DELETE | Deletes the register of a parking spot
 ------------------------------------------------------------------
+### API working images
+- ``GET Method: Listing all registers``
+![GETALL](https://user-images.githubusercontent.com/83853014/195958085-f46ff4e0-eff2-4280-9847-c527e9b62de6.PNG)
+
+
 
  
  ## 🙋 Author Info
