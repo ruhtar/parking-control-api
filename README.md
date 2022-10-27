@@ -1,5 +1,5 @@
 # Parking spot control system 🚗
-API made in Java with Spring using Postgre database. The API is a REST one that follows the Repository, Controller and Services design pattern. 
+API made in Java with Spring using Postgres database. The API is a REST one that follows the Repository, Controller and Services design pattern. 
 The application does some operation like to create, update, list and delete the infos registered of a parking spot. The operations with the database were made using JPA and validated with Validation.
 
 
