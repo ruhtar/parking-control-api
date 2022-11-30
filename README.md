@@ -1,9 +1,9 @@
 # Parking spot control system 🚗
-API made in Java with Spring using Postgres database. The API is a REST one that follows the Repository, Controller and Services design pattern. 
-The application does some operation like to create, update, list and delete the infos registered of a parking spot. The operations with the database were made using JPA and validated with Validation.
+API made in Java with Spring using PostgreSQL database. This Rest API follows the Repository, Controller and Services design pattern. 
+The application does operations like create, update, list and delete infos registered of a parking spot. The operations with the database were made using JPA and validated with Validation.
 
 
-## 🔨 Project's funcionalities
+## 🔨 Project's funcionalities:
 
  - [x] Creation of parking spot register
  - [x] Listing of parking spot registers
@@ -11,7 +11,7 @@ The application does some operation like to create, update, list and delete the 
  - [x] Updating the register of a parking spot
  - [x] Deletion of a parking spot register
 
-## ✔️ Technologies used
+## ✔️ Technologies used:
 
  - ``Java``
  - ``Spring Boot``
@@ -23,7 +23,7 @@ The application does some operation like to create, update, list and delete the 
  - ``Postman``
 
  
- ### 🎯 Endpoints
+ ### 🎯 Endpoints:
 
  Path | Method | Description
  ---|---|---
@@ -50,7 +50,7 @@ The application does some operation like to create, update, list and delete the 
 - ![delete](https://user-images.githubusercontent.com/83853014/195958190-0af415d6-43eb-4dc6-b37c-4738ca2f411c.PNG)
 
  
- ## 🙋 Author Info
+ ## 🙋 Author Info:
  
  Some places where you can contact me:
 
